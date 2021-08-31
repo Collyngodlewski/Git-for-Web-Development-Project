@@ -3,24 +3,43 @@ Link to finished codepen: https://codepen.io/collyn_g/pen/yLXONpP?editors=1100
     1. What is Semantic HTML? 
     It is HTML that gives meaning to markup
     2. What is HTML used for? 
+    HTML builds the bare website.
     3. What is an attribute and where do we put it? 
+    Attributes are in the beginning of tags and define the properties
     4. What is the h1 tag used for? How many times should I use it on a page?
+    H1 should be used only once and used with the header or title
     5. Name two tags that have required attributes
+    <img> and <a>
     6. What do we put in the head of our HTML document? 
+    The title
     7. What is an id? 
+    An id is used once in a document and identifies one element
     8. What elements can I add an id to? 
+    One
     9. How many times can I use the same id on a page? 
+    once
     10. What is a class? 
+    A class groups elements
     11. What elements can I add a class to? 
+    Any
     12. How many times can I use the same class on a page? 
+    As many as needed
     13. How do I get my link to open in a new tab?
+    target_blank
     14. What is the alt attribute in the image tag used for? 
+    src 
     15. How do I reference an id?
+    #
     16. What is the difference between a section and a div
+    section is used to group alike content, div is just a container that doesnt necessarily have meaning
     17. What is CSS used for? 
+    Css is used to style and make the website look nice
     18. How to we select an element? Example - every h2 on the page
+    to select h2 on every page you would use h2{} in css
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    a class would be used to change everything in lets say a list, and the id could be used to change one specific item, but only one.
     20. How do we select classes in CSS?
+    .
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
